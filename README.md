@@ -1,6 +1,6 @@
 # EmoTrack
 
-Este é o artigo do meu mais novo projeto focado no combate à depressão.
+Este é o artigo do meu mais novo projeto focado no combate à depressão. (pré-desenvolvimento)
 
 ## Combate à Depressão com Inteligência Artificial: Um Diário Online com Recurso de Mindfulness
 
